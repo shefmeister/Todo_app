@@ -1,0 +1,10 @@
+body {
+    padding : 50px;
+    background-color: lemonchiffon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container {
+    display : flex;
+    justify-content: center;
+}
