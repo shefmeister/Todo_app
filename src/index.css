@@ -8,3 +8,28 @@ body {
     display : flex;
     justify-content: center;
 }
+
+.todoListMain .header input{
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    border: 2px solid rgb(187, 151, 34);
+}
+
+.todoListMain .header button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color: rgb(187, 151, 34);
+    color: #FFF;
+    border: 2px solid rgb(187, 151, 34);
+    border-radius: 12px;
+}
+
+.todoListMain .header button:hover {
+    background-color: rgb(107, 84, 7);
+    border:2px solid rgb(107, 84, 7);
+    cursor: pointer;
+
+}
