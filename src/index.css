@@ -33,3 +33,18 @@ body {
     cursor: pointer;
 
 }
+.todoListMain .theList {
+    list-style: none;
+    padding-left: 0;
+    width: 290px;
+}
+
+.todoListMain .theList li {
+    color: black;
+    background-color: rgba(245, 139, 9, 0.514);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
